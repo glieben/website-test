@@ -1,0 +1,59 @@
+* {
+    margin-left: 20px;
+    background-color: beige;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+    margin-left: 0px;
+}
+
+.main {
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.link {
+    margin-left: 0px;
+    font-weight: 300;
+}
+
+#recipes {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.recipe.links {
+    font-size: 22px;
+    margin-left: 0px;
+    margin-top: 0px;
+    font-weight: 100;
+}
+
+#desc {
+    font-size: 30px;
+    font-weight: 650;
+}
+
+.list.header {
+    font-size: 22px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+#directions,
+#ingredients {
+    font-size: 20px;
+    margin-top: 0px;
+}
+
+#picture {
+    width: 400px;
+    height: auto;
+    border: 2.5px solid;
+}
